@@ -30,20 +30,18 @@
             /////////////////// INITIALIZATION //////////////////////////
             //////////////////////////////////////////////////////////////////
 
-            var $box = $('.box');	// reference to the HTML .box element
-            var boardWidth = $('.board').width();	// the maximum X-Coordinate of the screen
+            var $box = $('.box');	
+            var boardWidth = $('.board').width();	
 
-            // Every 50 milliseconds, call the update Function (see below)
+          
             setInterval(update, 50);
 
-            // Every time the box is clicked, call the handleBoxClick Function (see below)
+          
             $box.on('click', handleBoxClick);
 
              
 
-            //////////////////////////////////////////////////////////////////
-            /////////////////// CORE LOGIC /////////////////////////
-            //////////////////////////////////////////////////////////////////
+            
             // TODO 2 - Variable declarations 
             var positionX = 0;
             var speedX = 10;
