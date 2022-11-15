@@ -1,1 +1,0 @@
-# StoneHaydenFox.github.io
