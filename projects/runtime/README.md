@@ -102,7 +102,7 @@ Start by creating a shared document on Google Drive. Write down notes for your i
 
 4. Finally, come up with good _names_ for your game levels and obstacles. You will be naming everything, but if you later change your mind, don't worry. You can always change it later in your code.
 
-## TODO 1 : Adding A Background
+ ## TODO 1 : Adding A Background
 
 - **1a)** Choose your own background color!
 
